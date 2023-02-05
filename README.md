@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkt14" alt="mkt14" /></a> </p>
 
-- 🔭 I’m currently working on **data science**
+- 🔭 I’m currently working on [data science](https://public.tableau.com/views/dashboard1_16734383598070/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 - 🌱 I’m currently learning **java course**
 
