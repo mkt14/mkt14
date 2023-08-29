@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Mudit Tiwari</h1>
-<h3 align="center">Passionate about coding and learning data science skill and analytical skills as well.</h3>
+<h3 align="center">Motivated B.Tech student with a strong background in data analysis and web development. Proven ability to use Tableau and other data visualization tools to gain insights from complex data sets. Experienced in developing and deploying web applications using HTML, CSS, and JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkt14&label=Profile%20views&color=0e75b6&style=flat" alt="mkt14" /> </p>
 
